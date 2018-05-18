@@ -1,0 +1,10 @@
+Milk, true, 10
+Oil, false, 20
+Meat, true, 40
+Fish, false, 32
+Tomato, true, 18
+Bread, true, 8
+Eggs, false, 12
+Potato, true, 6
+Butter, false, 23
+Pasta, true, 12
